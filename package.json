@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "license": "UNLICENSED",
+  "repository": "https://github.com/sharonsooyeon/guessthatcomposer",
+  "description": "Guessing game with classical music and their composers.",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
